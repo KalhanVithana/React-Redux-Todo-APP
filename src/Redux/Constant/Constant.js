@@ -1,0 +1,7 @@
+export const Load_data  = 'Load_data '
+export  const Sucess_data ='Sucess_data'
+export const Error_data ='Error_data'
+export const load_UserData = 'load_UserData'
+export const Sucess_user = 'Sucess_user'
+export  const Update_Load = 'Update_Load'
+export const Update_Sucess = 'Update_Sucess'
